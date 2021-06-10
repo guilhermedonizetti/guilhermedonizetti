@@ -1,5 +1,8 @@
 # :computer: Guilherme Donizetti
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermetecnologias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilhermedonizetti-ads)](https://br.linkedin.com/in/guilhermedonizetti-ads)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/guilhermedonizetti.sp)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](http://guilhermedonizettiads.medium.com/)
 
 #### Experiência
   <ul>
