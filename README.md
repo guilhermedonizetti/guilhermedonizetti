@@ -15,9 +15,10 @@
   <li>Técnico em Informática (Etec Cruzeiro)</li>
   <li>Cursos de 2021</li>
   <ul>
+    <li>Certificação AI-900 :heavy_check_mark: (concluído)</li>
+    <li>Computação em Nuvem usando Azure :heavy_check_mark: (concluído)</li>
+    <li>Dispositivos IoT e AWS :heavy_check_mark: (concluído)</li>
     <li>CyberOps Associate :heavy_check_mark: (concluído)</li>
-    <li>Python for pentest :white_circle: (em andamento)</li>
-    <li>Introdução ao hacking e pentest :white_circle: (em andamento)</li>
   </ul>
   </ul>
 
