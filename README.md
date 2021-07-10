@@ -11,7 +11,7 @@
 
 #### Formação
   <ul>
-  <li>Graduando em Análise e Desenvolvimento de Sistemas (5º Sem - Fatec Cruzeiro)</li>
+  <li>Graduando em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro, último semestre)</li>
   <li>Técnico em Informática (Etec Cruzeiro)</li>
   <li>Cursos de 2021</li>
   <ul>
