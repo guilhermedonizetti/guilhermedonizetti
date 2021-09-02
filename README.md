@@ -6,7 +6,7 @@
 
 #### Experiência
   <ul>
-  <li>Bolsista PIBITI/CNPq no CPS :computer: (09/2020 - atual) </li>
+  <li>Bolsista PIBITI/CNPq no CPS :computer: (09/2020 - 09/2021) </li>
   </ul>
 
 #### Formação
