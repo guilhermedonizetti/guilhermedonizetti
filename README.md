@@ -15,6 +15,7 @@
   <li>Técnico em Informática (Etec Cruzeiro)</li>
   <li>Cursos de 2021</li>
   <ul>
+    <li>Fundamentos de Machine Learning - AWS :heavy_check_mark: (concluído)</li>
     <li>Certificação AI-900 :heavy_check_mark: (concluído)</li>
     <li>Computação em Nuvem usando Azure :heavy_check_mark: (concluído)</li>
     <li>Dispositivos IoT e AWS :heavy_check_mark: (concluído)</li>
