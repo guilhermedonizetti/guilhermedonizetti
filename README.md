@@ -1,9 +1,9 @@
 # :computer: Guilherme Donizetti
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermetecnologias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilhermedonizetti-ads)](https://br.linkedin.com/in/guilhermedonizetti-ads)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/guilhermedonizetti.sp)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](http://guilhermedonizettiads.medium.com/)
 [![Me Badge](https://img.shields.io/badge/website-000000?style=flat-square&or-the-badge&logo=About.me&logoColor=white)](https://guilhermedonizetti.herokuapp.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermetecnologias@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](http://guilhermedonizettiads.medium.com/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/guilhermedonizetti.sp)
 
 #### Experiência
   <ul>
@@ -54,3 +54,5 @@
 
 #### Estatística
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedonizetti&show_icons=true&theme=merko)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedonizetti&langs_count=4&hide=javascript,css,scss&theme=dark" />
+
