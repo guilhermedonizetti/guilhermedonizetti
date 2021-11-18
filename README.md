@@ -53,6 +53,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 #### Estatística
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermedonizetti&show_icons=true&theme=merko)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedonizetti&langs_count=4&hide=javascript,css,scss&theme=dark" />
+<a href="https://github.com/guilhermedonizetti/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermedonizetti&show_icons=true&theme=merko">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedonizetti&langs_count=4&hide=javascript,css,scss&theme=dark" />
+</a>
 
