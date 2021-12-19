@@ -7,7 +7,7 @@
 
 #### Experiência
   <ul>
-  <li>Proramador Jr. na Mais Top Estética :computer: (12/2021 - até o momento)</li>
+  <li>Programador Jr. na Mais Top Estética :computer: (12/2021 - até o momento)</li>
   <li>Bolsista PIBITI/CNPq no CPS :computer: (09/2020 - 09/2021) </li>
   </ul>
 
