@@ -1,9 +1,10 @@
 # :computer: Guilherme Donizetti
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilhermedonizetti-ads)](https://br.linkedin.com/in/guilhermedonizetti-ads)
-[![Me Badge](https://img.shields.io/badge/website-000000?style=flat-square&or-the-badge&logo=About.me&logoColor=white)](https://guilhermedonizetti.herokuapp.com/)
+[![Pessoal](https://img.shields.io/static/v1?label=pessoal:&message=PORTFÓLIO&color=green&style=flat-square&logo=heroku)](https://guilhermedonizetti.herokuapp.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermetecnologias@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](http://guilhermedonizettiads.medium.com/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/guilhermedonizetti.sp)
+<!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/guilhermedonizetti.sp) -->
+<!-- [![Me Badge](https://img.shields.io/badge/website-000000?style=flat-square&or-the-badge&logo=About.me&logoColor=white)](https://guilhermedonizetti.herokuapp.com/) -->
 
 #### Experiência
   <ul>
@@ -15,7 +16,7 @@
   <ul>
   <li>Graduado em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - 2021)</li>
   <li>Técnico em Informática (Etec Cruzeiro - 2018)</li>
-  <li>Cursos de 2021</li>
+  <li>Alguns cursos:</li>
   <ul>
     <li>Fundamentos de Machine Learning - AWS :heavy_check_mark: (concluído)</li>
     <li>Certificação AI-900 :heavy_check_mark: (concluído)</li>
