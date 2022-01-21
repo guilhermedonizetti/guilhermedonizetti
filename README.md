@@ -18,6 +18,7 @@
   <li>Técnico em Informática (Etec Cruzeiro - 2018)</li>
   <li>Alguns cursos:</li>
   <ul>
+    <li>Desenvolvimento Avançado de API com Flask :heavy_check_mark: (concluído)</li>
     <li>Fundamentos de Machine Learning - AWS :heavy_check_mark: (concluído)</li>
     <li>Certificação AI-900 :heavy_check_mark: (concluído)</li>
     <li>Computação em Nuvem usando Azure :heavy_check_mark: (concluído)</li>
