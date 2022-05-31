@@ -8,7 +8,8 @@
 
 #### Experiência
   <ul>
-  <li>Programador Jr. na Mais Top Estética :computer: (12/2021 - até o momento)</li>
+  <li>Programador Pleno na Mais Top Estética :computer: (06/2022 - até o momento)</li>
+  <li>Programador Jr. na Mais Top Estética :computer: (12/2021 - 05/2022)</li>
   <li>Bolsista PIBITI/CNPq no CPS :computer: (09/2020 - 09/2021) </li>
   </ul>
 
@@ -35,7 +36,8 @@
 
 <b>Framework:</b><br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=purple">
 
 <b>SGBD:</b><br>
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" /> &nbsp;
